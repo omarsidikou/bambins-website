@@ -6,4 +6,4 @@ header_menu: true
 
 {{< youtube YW8PCq8zIbc >}}
 
-Chaussures pour filles & garcons, bijoux pour filles et autres accessoires
+Chaussures pour filles & garçons, bijoux pour filles et autres accessoires
