@@ -1,0 +1,13 @@
+images:
+  - image: /images/slider/garcon_1.jpeg
+    content_html: "1"
+  - image: /images/slider/garcon_2.jpeg
+    content_html: "2"
+  - image: /images/slider/garcon_3.jpeg
+    content_html: "3"
+  - image: /images/slider/garcon_4.jpeg
+    content_html: "4"
+  - image: /images/slider/garcon_5.jpeg
+    content_html: "5"
+  - image: /images/slider/garcon_6.jpeg
+    content_html: "6"

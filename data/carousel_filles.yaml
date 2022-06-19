@@ -1,0 +1,33 @@
+images:
+  - image: /images/slider-filles/filles_1.jpeg
+    content_html: "1"
+  - image: /images/slider-filles/filles_2.jpeg
+    content_html: "2"
+  - image: /images/slider-filles/filles_3.jpeg
+    content_html: "3"
+  - image: /images/slider-filles/filles_4.jpeg
+    content_html: "4"
+  - image: /images/slider-filles/filles_5.jpeg
+    content_html: "5"
+  - image: /images/slider-filles/filles_6.jpeg
+    content_html: "6"
+  - image: /images/slider-filles/filles_7.jpeg
+    content_html: "7"
+  - image: /images/slider-filles/filles_8.jpeg
+    content_html: "8"
+  - image: /images/slider-filles/filles_9.jpeg
+    content_html: "9"
+  - image: /images/slider-filles/filles_10.jpeg
+    content_html: "10"
+  - image: /images/slider-filles/filles_11.jpeg
+    content_html: "11"
+  - image: /images/slider-filles/filles_12.jpeg
+    content_html: "12"
+  - image: /images/slider-filles/filles_13.jpeg
+    content_html: "13"
+  - image: /images/slider-filles/filles_14.jpeg
+    content_html: "14"
+  - image: /images/slider-filles/filles_15.jpeg
+    content_html: "15"
+  - image: /images/slider-filles/filles_16.jpeg
+    content_html: "16"

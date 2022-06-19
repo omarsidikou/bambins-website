@@ -1,0 +1,31 @@
+images:
+  - image: /images/slider-garcons/chaussures_1.jpeg
+    content_html: "1"
+  - image: /images/slider-garcons/chaussures_2.jpeg
+    content_html: "2"
+  - image: /images/slider-garcons/chaussures_3.jpeg
+    content_html: "3"
+  - image: /images/slider-garcons/chaussures_4.jpeg
+    content_html: "4"
+  - image: /images/slider-garcons/chaussures_5.jpeg
+    content_html: "5"
+  - image: /images/slider-garcons/chaussures_6.jpeg
+    content_html: "6"
+  - image: /images/slider-garcons/chaussures_7.jpeg
+    content_html: "7"
+  - image: /images/slider-garcons/chaussures_8.jpeg
+    content_html: "8"
+  - image: /images/slider-garcons/chaussures_9.jpeg
+    content_html: "9"
+  - image: /images/slider-garcons/chaussures_10.jpeg
+    content_html: "10"
+  - image: /images/slider-garcons/chaussures_11.jpeg
+    content_html: "11"
+  - image: /images/slider-garcons/chaussures_12.jpeg
+    content_html: "12"
+  - image: /images/slider-garcons/chaussures_13.jpeg
+    content_html: "13"
+  - image: /images/slider-garcons/chaussures_14.jpeg
+    content_html: "14"
+
+
